@@ -1,4 +1,4 @@
-# DPHNet
+# HDPNet
 > [!NOTE]  
 > The paper is still under review.
 > Considering that it may need to be further revised according to the reviewers' comments, the code cannot be stabilized at the moment.
