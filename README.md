@@ -22,4 +22,4 @@
 | NC4K      | 0.901 | 0.848        | 0.870 | 0.932 | 0.950 | 0.029 |
 
 ### Qualitative Results
-![image]([https://github.com/LittleGrey-hjp/FHVCNet/blob/main/Visio-camouflage_fig1.pdf](https://github.com/LittleGrey-hjp/HDPNet/blob/main/Visio-camouflage_fig1.jpg))
+![Qualitative Result](https://github.com/LittleGrey-hjp/HDPNet/blob/main/Visio-camouflage_fig1.jpg))
