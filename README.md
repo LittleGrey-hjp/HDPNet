@@ -20,4 +20,7 @@
 | NC4K      |    0.902       |        0.850         |      0.845       |      0.871       |      0.891       |      0.931       |      0.934       |      0.950       |           0.029           |
 > 
 ### Qualitative Results
+>
+>Quantitative results in several typical complex situations, including occlusion, small objects, multiple objects, and object boundaries.
+> 
 ![Qualitative Result](https://github.com/LittleGrey-hjp/HDPNet/blob/main/Visio-camouflage_fig1.jpg)
