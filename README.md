@@ -7,6 +7,8 @@
 ### Quantitative Results
 > 
 > Our final results,  which perform very well on the COD10K dataset (contains a lot of small objects and detailed labeling of the objects' fine boundaries)
+> S-measure($S_m$), weighted F-measure($F_{\omega}$), adaptive F-measure($F^a_m$), mean F-measure($F^m_m$),max F-measure($F^x_m$), adaptive E-measure($E^a_m$),
+> mean E-measure($E^m_m$), max E-measure ($E^x_m$), and mean absolute error($\mathcal{M}$)
 > 
 | Dataset   | $S_m \uparrow$ | $F_{\omega} \uparrow$ | $F^a_m \uparrow$ | $F^m_m \uparrow$ | $F^x_m \uparrow$ | $E^a_m \uparrow$ | $E^m_m \uparrow$ | $E^x_m \uparrow$ | $\mathcal{M} \downarrow$ |
 |:---------:|:--------------:|:--------------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:-------------------------:|
