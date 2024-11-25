@@ -1,4 +1,4 @@
-# HDPNet: Hourglass Vision Transformer with Dual-Path Feature Pyramid for Camouflaged Object Detection(WACV2025)
+# HDPNet: Hourglass Vision Transformer with Dual-Path Feature Pyramid for Camouflaged Object Detection (WACV2025)
 
 ## Usage
 
@@ -18,8 +18,8 @@
 
 ### 3. Training Configuration
 
-- The pretrained model is stored in [Google Drive]() and [Baidu Drive]() (). After downloading, please change the file path in the corresponding code.
-- Run `train.sh` or `slurm_train.sh` as needed to train.
+- The pretrained model(PVT2) is stored in [Google Drive]() and [Baidu Drive]() (). After downloading, please change the file path in the corresponding code.
+- Run `train.sh` to train.
 
 ### 4. Testing Configuration
 
