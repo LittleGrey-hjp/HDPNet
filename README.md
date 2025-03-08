@@ -33,7 +33,7 @@ Our well-trained model is stored in [Google Drive](https://drive.google.com/file
 
 ### 6. Results download
 
-The prediction results of our HDPNet are stored on [Google Drive](https://drive.google.com/drive/folders/1znoCKopi-CtAxj2-ixOTjjx833-PlxAx?usp=drive_link)please check.
+The prediction results of our HDPNet are stored on [Google Drive](https://drive.google.com/drive/folders/1znoCKopi-CtAxj2-ixOTjjx833-PlxAx?usp=drive_link). Please check.
 
 ### 7. Quantitative Results
 > 
