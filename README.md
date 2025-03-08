@@ -18,12 +18,12 @@
 
 ### 3. Training Configuration
 
-- The pretrained model(PVT2) is stored in [Google Drive]() and [Baidu Drive]() (). After downloading, please change the file path in the corresponding code.
+- The pretrained model(PVT2) is stored in [Google Drive](https://drive.google.com/file/d/1fJpCAKDIISC5yQcr4XASalv95hdI5cB4/view?usp=drive_link) and [Baidu Drive](https://pan.baidu.com/s/1WhKe3unTSfsHboCzUu0OqQ) (g3ea). After downloading, please change the file path in the corresponding code.
 - Run `train.sh` to train.
 
 ### 4. Testing Configuration
 
-Our well-trained model is stored in [Google Drive]() and [Baidu Drive]() (). After downloading, please change the file path in the corresponding code.
+Our well-trained model is stored in [Google Drive](https://drive.google.com/file/d/1LfKhIV0cXl_lNpkrLsv4TMvcRMx_IIYW/view?usp=drive_link) and [Baidu Drive](https://pan.baidu.com/s/1ESnWJ19ivgSrOxadWJRDuQ) (gv9n). After downloading, please change the file path in the corresponding code.
 
 ### 5. Evaluation
 
@@ -33,7 +33,7 @@ Our well-trained model is stored in [Google Drive]() and [Baidu Drive]() (). Aft
 
 ### 6. Results download
 
-The prediction results of our HDPNet are stored on [Google Drive]() and [Baidu Drive]() () please check.
+The prediction results of our HDPNet are stored on [Google Drive](https://drive.google.com/drive/folders/1znoCKopi-CtAxj2-ixOTjjx833-PlxAx?usp=drive_link)please check.
 
 ### 7. Quantitative Results
 > 
