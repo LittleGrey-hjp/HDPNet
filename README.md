@@ -13,8 +13,8 @@
 
 ### 2. Downloading Training and Testing Datasets
 
-- Download the [training set]() (COD-TrainDataset) used for training 
-- Download the [testing sets]() (COD10K-test + CAMO-test + CHAMELEON + NC4K ) used for testing
+- Download the [training set](https://drive.google.com/drive/folders/1V1z3WxDOqZeo8adIu6vmh8rZPf31M_To?usp=drive_link) (COD-TrainDataset) used for training 
+- Download the [testing sets](https://drive.google.com/drive/folders/1UndxEPkZFxZwbrVvctb8ZvRpThwB7AND?usp=drive_link) (COD10K-test + CAMO-test + CHAMELEON + NC4K ) used for testing
 
 ### 3. Training Configuration
 
