@@ -60,5 +60,12 @@ The prediction results of our HDPNet are stored on [Google Drive](https://drive.
 ## Citation
 
 ```
-
+nproceedings{he2025hdpnet,
+  title={HDPNet: Hourglass Vision Transformer with Dual-Path Feature Pyramid for Camouflaged Object Detection},
+  author={He, Jinpeng and Liu, Biyuan and Chen, Huaixin},
+  booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={8638--8647},
+  year={2025},
+  organization={IEEE}
+}
 ```
